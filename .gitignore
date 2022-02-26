@@ -6,10 +6,8 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-ecomm/_resources_/*
-mfp/_resources_/*
-!ecomm/_resources_/*.zip
-!mfp/_resources_/*.zip
+ecomm/_resources1_/
+mfp/_resources1_/
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
